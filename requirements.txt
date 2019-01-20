@@ -1,0 +1,12 @@
+aliyun-python-sdk-core-v3==2.9.1
+aliyun-python-sdk-kms==2.5.0
+cryptography==2.3.1
+Flask==1.0.2
+Flask-Cors==3.0.6
+Flask-Uploads==0.2.1
+oss2==2.5.0
+redis==2.10.6
+requests==2.19.1
+uuid==1.30
+pymongo
+bson
